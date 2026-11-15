@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tin9-bai6-v1';
+const CACHE_NAME = 'tin9-bai6-a1ab9736';
 const VIDEO = './BAI_6_THUC_HANH_PHAN_MEM_MO_PHONG.mp4';
 const CORE_ASSETS = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', VIDEO];
 
